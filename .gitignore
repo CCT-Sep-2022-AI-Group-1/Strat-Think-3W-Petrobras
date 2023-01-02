@@ -14,5 +14,5 @@ html/
 # VS Code configuration
 .vscode/
 
-*.csv
-*.zip
+overviews/_baseline/*.csv
+overviews/_baseline/*.zip
