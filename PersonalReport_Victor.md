@@ -1,7 +1,7 @@
-Overcoming Challenges and Learning Through Experience in a Strategy Thinking Project
-Personal Report by Victor Ferreira Silva
-Email 2021324@student.cct.ie
-Student ID 2021324
+## Overcoming Challenges and Learning Through Experience in a Strategy Thinking Project
+###Personal Report by Victor Ferreira Silva
+###Email 2021324@student.cct.ie
+###Student ID 2021324
 
 I actually began studying at CCT in September 2021. While the course was challenging, I enjoyed the content and my fellow students. Unfortunately, due to a personal loss in November 2021, I had to pause the course after completing one of the four required classes.
 
