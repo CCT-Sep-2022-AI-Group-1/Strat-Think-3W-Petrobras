@@ -15,3 +15,4 @@ html/
 .vscode/
 
 3Wdataset.csv
+*.csv
